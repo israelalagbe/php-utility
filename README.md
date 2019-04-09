@@ -1,1 +1,1 @@
-Copywrite(c)2016 Israel Alagbe
+A simple Utility library for php string and array.
